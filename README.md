@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋 It's me Yeshi :smile:
 
-<!--
-**jinsel/jinsel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gist About Me:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Fun With Machine Learning Project and you can also have fun with me.. Join Me 👯
+- 💬 Ask me about Deep Learning, Python.
+- 📫 How to reach me:<br>
+    :iphone: https://www.instagram.com/iam_jinsel/<br>
+    :iphone: https://www.linkedin.com/in/yeshidorjee/
+- ⚡ Fun fact:<br>
+    I am always a learning person, love to learn everything and anythings.:blush:<br>
+    I love Editing Video :movie_camera: and I am a motion editor :computer: too<br>
+    
+    
+   I believe in coding :computer: and this technology for creating a better world and peaceful world :earth_asia:. Special in the era of Artificial Intelligent and Deep Learning, Coding is what I believe a "super language for this century".<br>
+   As for me I love coding but sometimes its really makes you brainless :brain: but its teach me how to think out of box.<br>
+   
+   
+   Love to **contribute** and let's make a **better WORLD**.
+   
